@@ -1,0 +1,624 @@
+2016-11-24 14:12:23 Error: [MissingControllerException] Controller class JobsController could not be found.
+Exception Attributes: array (
+  'class' => 'JobsController',
+  'plugin' => NULL,
+)
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-24 14:53:31 Error: Fatal Error (1): Class 'AppContoller' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 3]
+2016-11-24 14:53:31 Error: [FatalErrorException] Class 'AppContoller' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 3, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 14:55:03 Error: Fatal Error (1): Class 'AppContoller' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 5]
+2016-11-24 14:55:03 Error: [FatalErrorException] Class 'AppContoller' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 14:55:04 Error: Fatal Error (1): Class 'AppContoller' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 5]
+2016-11-24 14:55:04 Error: [FatalErrorException] Class 'AppContoller' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'AppConto...', 'C:\\xampp\\htdocs...', 5, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 14:56:12 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 14:56:12 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 14:56:13 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 14:56:13 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:02:46 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:02:46 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:04:18 Error: Fatal Error (1): Class 'app\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:04:18 Error: [FatalErrorException] Class 'app\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:04:19 Error: Fatal Error (1): Class 'app\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:04:19 Error: [FatalErrorException] Class 'app\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:04:20 Error: Fatal Error (1): Class 'app\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:04:20 Error: [FatalErrorException] Class 'app\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:04:20 Error: Fatal Error (1): Class 'app\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:04:20 Error: [FatalErrorException] Class 'app\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:04:21 Error: Fatal Error (1): Class 'app\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobsController.php, line 8]
+2016-11-24 15:04:21 Error: [FatalErrorException] Class 'app\Controller\AppController' not found
+Request URL: /JobPortal/Jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'app\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-24 15:32:34 Error: [MissingActionException] Action JobsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'index',
+)
+Request URL: /JobPortal/jobs/index
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-24 15:34:54 Error: [MissingViewException] View file "Jobs\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Jobs\\index.ctp',
+)
+Request URL: /JobPortal/jobs/index
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(470): View->_getViewFileName('Jobs\\index')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-24 18:36:52 Error: [MissingActionException] Action JobsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobsController',
+  'action' => 'view',
+)
+Request URL: /JobPortal/jobs/view
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-24 18:38:57 Error: [MissingViewException] View file "Jobs\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Jobs\\view.ctp',
+)
+Request URL: /JobPortal/jobs/view
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(470): View->_getViewFileName('Jobs\\view')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 11:47:09 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 11:52:24 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 11:55:03 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 11:55:51 Error: [ParseError] syntax error, unexpected '}', expecting end of file
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 11:55:56 Error: [ParseError] syntax error, unexpected '}', expecting end of file
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 11:57:02 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 11:57:11 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:03:54 Error: [Error] Call to a member function create() on null
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:04:55 Error: [Error] Call to undefined function loadModel()
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: JobPostsController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:05:08 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 12:05:20 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 12:06:23 Error: [MissingActionException] Action JobPostsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobPostsController',
+  'action' => 'index',
+)
+Request URL: /JobPortal/jobposts/index
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-26 12:06:35 Error: [MissingActionException] Action JobPostsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobPostsController',
+  'action' => 'index',
+)
+Request URL: /JobPortal/jobposts/index
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-26 12:16:25 Error: [MissingActionException] Action JobPostsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'JobPostsController',
+  'action' => 'index',
+)
+Request URL: /JobPortal/jobposts/
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#2 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-11-26 12:17:23 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 12:37:04 Error: [Error] Call to a member function find() on null
+Request URL: /JobPortal/jobposts/index
+Stack Trace:
+#0 [internal function]: JobPostsController->index()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(JobPostsController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:37:50 Error: [MissingViewException] View file "JobPosts\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'JobPosts\\view.ctp',
+)
+Request URL: /JobPortal/jobposts/view/1
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(470): View->_getViewFileName('JobPosts\\view')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:38:01 Error: [MissingViewException] View file "JobPosts\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'JobPosts\\view.ctp',
+)
+Request URL: /JobPortal/jobposts/view/1
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(470): View->_getViewFileName('JobPosts\\view')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 12:38:38 Error: [MissingViewException] View file "JobPosts\view.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'JobPosts\\view.ctp',
+)
+Request URL: /JobPortal/jobposts/view/1
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(470): View->_getViewFileName('JobPosts\\view')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobPostsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:15:41 Error: [Error] Call to a member function success() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:19:25 Error: [Error] Call to a member function success() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:25:00 Error: [Error] Call to a member function set() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:26:05 Error: Fatal Error (64): Cannot redeclare UsersController::$components in [C:\xampp\htdocs\JobPortal\app\Controller\UsersController.php, line 18]
+2016-11-26 14:26:05 Error: [FatalErrorException] Cannot redeclare UsersController::$components
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 18)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Cannot redeclar...', 'C:\\xampp\\htdocs...', 18, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-26 14:26:18 Error: [Error] Call to a member function success() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:26:32 Error: [Error] Call to a member function success() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:26:49 Error: [Error] Call to a member function success() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 14:29:38 Error: [ParseError] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /JobPortal/users/login
+Stack Trace:
+#0 [internal function]: App::load('UsersController')
+#1 [internal function]: spl_autoload_call('UsersController')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('UsersController')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 14:30:14 Error: [Error] Call to a member function set() on null
+Request URL: /JobPortal/users/add
+Stack Trace:
+#0 [internal function]: UsersController->add()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-11-26 15:12:44 Error: [ParseError] syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobs/index
+Stack Trace:
+#0 [internal function]: App::load('JobsController')
+#1 [internal function]: spl_autoload_call('JobsController')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobsController')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-26 20:36:29 Error: [Error] Class 'UsersController' not found
+Request URL: /JobPortal/jobs/view/11
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-11-26 20:36:58 Error: [Error] Class 'UsersController' not found
+Request URL: /JobPortal/jobs/view/11
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-11-26 20:39:18 Error: [Error] Class 'UsersController' not found
+Request URL: /JobPortal/jobs/view/11
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-11-26 20:41:39 Error: [Error] Class 'UsersController' not found
+Request URL: /JobPortal/jobs/view/11
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-11-26 20:41:47 Error: [Error] Class 'UsersController' not found
+Request URL: /JobPortal/jobs/view/11
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include()
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2016-11-27 00:41:32 Error: [ParseError] syntax error, unexpected 'endif' (T_ENDIF)
+Request URL: /JobPortal/jobs/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 01:13:36 Error: [ParseError] syntax error, unexpected ':'
+Request URL: /JobPortal/
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 01:14:58 Error: [ParseError] syntax error, unexpected ':'
+Request URL: /JobPortal/
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 01:15:24 Error: [MissingHelperException] Helper class AuthHelper could not be found.
+Exception Attributes: array (
+  'class' => 'AuthHelper',
+  'plugin' => false,
+)
+Request URL: /JobPortal/
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\View\HelperCollection.php(63): HelperCollection->load('Auth')
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(858): HelperCollection->__isset('Auth')
+#2 C:\xampp\htdocs\JobPortal\app\View\Jobs\index.ctp(48): View->__get('Auth')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(971): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(933): View->_evaluate('C:\\xampp\\htdocs...', Array)
+#5 C:\xampp\htdocs\JobPortal\lib\Cake\View\View.php(473): View->_render('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\JobPortal\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#7 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#8 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(JobsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2016-11-27 11:49:44 Error: [MissingControllerException] Controller class JobportalController could not be found.
+Exception Attributes: array (
+  'class' => 'JobportalController',
+  'plugin' => NULL,
+)
+Request URL: /JobPortal/jobportal/
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-27 11:50:01 Error: [MissingControllerException] Controller class JobportalController could not be found.
+Exception Attributes: array (
+  'class' => 'JobportalController',
+  'plugin' => NULL,
+)
+Request URL: /JobPortal/jobportal/users
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-27 11:50:07 Error: [MissingControllerException] Controller class JobportalController could not be found.
+Exception Attributes: array (
+  'class' => 'JobportalController',
+  'plugin' => NULL,
+)
+Request URL: /JobPortal/jobportal/users/add
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-11-27 17:21:31 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 17:31:18 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 17:31:21 Error: [ParseError] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 [internal function]: App::load('JobpostsControl...')
+#1 [internal function]: spl_autoload_call('JobpostsControl...')
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(266): class_exists('JobpostsControl...')
+#3 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#4 C:\xampp\htdocs\JobPortal\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#5 C:\xampp\htdocs\JobPortal\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-11-27 17:33:03 Error: Fatal Error (64): Namespace declaration statement has to be the very first statement or after any declare call in the script in [C:\xampp\htdocs\JobPortal\app\Controller\JobPostsController.php, line 4]
+2016-11-27 17:33:03 Error: [FatalErrorException] Namespace declaration statement has to be the very first statement or after any declare call in the script
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Namespace decla...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Namespace decla...', 'C:\\xampp\\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-27 20:36:30 Error: Fatal Error (1): Class 'App\Controller\AppController' not found in [C:\xampp\htdocs\JobPortal\app\Controller\JobPostsController.php, line 8]
+2016-11-27 20:36:30 Error: [FatalErrorException] Class 'App\Controller\AppController' not found
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2016-11-27 20:37:04 Error: Fatal Error (64): Namespace declaration statement has to be the very first statement or after any declare call in the script in [C:\xampp\htdocs\JobPortal\app\Controller\JobPostsController.php, line 4]
+2016-11-27 20:37:04 Error: [FatalErrorException] Namespace declaration statement has to be the very first statement or after any declare call in the script
+Request URL: /JobPortal/jobposts/add/37
+Stack Trace:
+#0 C:\xampp\htdocs\JobPortal\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Namespace decla...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(970): ErrorHandler::handleError(64, 'Namespace decla...', 'C:\\xampp\\htdocs...', 4, Array)
+#2 C:\xampp\htdocs\JobPortal\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
